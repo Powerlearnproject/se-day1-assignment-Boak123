@@ -38,7 +38,7 @@ Description: In the 1990s, traditional software development methods like the Wat
 Impact: Agile methodologies revolutionized software engineering by promoting continuous feedback, customer collaboration, and rapid iterations. This allowed teams to respond more quickly to changes, deliver software incrementally, and improve the overall quality of the final product.
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+List and briefly explain the phases of the Software Development Life Cycle..
 
 The Software Development Life Cycle (SDLC) is a structured process used for developing software applications. It typically consists of several phases, each with specific goals and tasks. Here’s a brief overview of the common phases:
 
